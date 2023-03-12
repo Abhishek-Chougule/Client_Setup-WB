@@ -11,8 +11,8 @@ REM ____________________________________________________________________________
 
 @echo off
 
-set SCRIPT_PATH="C:\Users\MrAbhi\Downloads\client.py"
-set SHORTCUT_NAME="Client Python Script by Abhishek Chougule. Copyright (c) 2023, Abhishek Chougule and contributors Contact developer.mrabhi@gmail.com for more. For license information, please see license.txt"
+set SCRIPT_PATH="C:\Users\MrAbhi\Downloads\winclient.py"
+set SHORTCUT_NAME="clientservicemrabhi"
 
 
 echo Set oWS = WScript.CreateObject("WScript.Shell") > %TEMP%\%SHORTCUT_NAME%.vbs
