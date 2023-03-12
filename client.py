@@ -2,7 +2,6 @@
 # Contact developer.mrabhi@gmail.com for more.
 # For license information, please see license.txt
 
-import serial
 import requests
 import time
 import random
